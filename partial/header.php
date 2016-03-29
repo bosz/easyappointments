@@ -50,7 +50,7 @@
                             <li><a href="#">One more separated link</a></li>
                         </ul>
                     </li>
-                    <li><a href="newContact.php">Contacts</a></li>
+                    <li><a href="contacts.php">Contacts</a></li>
                     <li><a href="newRelation.php">Relations</a></li>
                     <li><a href="newRelation.php">Requests</a></li>
                 </ul>
